@@ -8,7 +8,6 @@ namespace LabWork
     {
         protected double a0, a1, a2;
 
-        // Конструктор за замовчуванням
         public Pryama()
         {
             a0 = 0;
